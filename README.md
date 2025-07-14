@@ -1,5 +1,5 @@
 # Light
-A framework for coding desktop apps in javascript, html, and css
+A framework for coding desktop apps in javascript, html, and css <strong>(WIP)<strong/>
 
 Dependencies:
 
