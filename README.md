@@ -44,6 +44,3 @@ cd Light
 python main.py
 
 ==========================================================
-<video id="clocks" class="glassy" disablepictureinpicture="" disableremoteplayback="">
-			<source src="https://mercurywork.shop/assets/clocks.mp4" type="video/mp4" preload="auto">
-		</video>
