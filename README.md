@@ -1,6 +1,8 @@
 # Light
 A framework for coding desktop apps in javascript, html, and css <strong>(WIP)<strong/>
 
+==========================================================
+
 Dependencies:
 
 PyQt5
@@ -42,5 +44,11 @@ node index.js
 cd Light
 
 python main.py
+
+==========================================================
+
+Clocks:
+
+<video src="https://github.com/user-attachments/assets/e1234ceb-468f-4af4-ae2f-1181495e4c9b"><video/>
 
 ==========================================================
